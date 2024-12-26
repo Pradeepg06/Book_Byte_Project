@@ -346,7 +346,7 @@ values
  'Sudha Murthy & Priya Kuriyan',
  2012,
  'Summer Holiday Stories By Grandma',
- "https://www.ssgopalganj.in/online/E-Books/CLASS%20VI/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy.pdf",
+ 'https://online.pubhtml5.com/ppxm/cjpp/',
  'https://m.media-amazon.com/images/I/81ExT8sUebL._AC_UF1000,1000_QL80_.jpg',
  'comics'
 );
